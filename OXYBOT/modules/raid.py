@@ -38,9 +38,9 @@ async def raid(e):
             if uid in OXYGEN:
                 await e.reply("REPO OWNER HAI YE.")
             elif uid == OWNER_ID:
-                await e.reply("BETA BAAP PE RAID NHI KRTE HAI...")
+                await e.reply("𝘽𝙀𝙏𝘼 𝙏𝙉 𝙋𝘼𝙋𝘼 𝙋𝘼𝙍 𝙍𝘼𝙄𝘿 𝙉𝙃𝙄 𝙆𝘼𝙍𝙏𝙀...")
             elif uid in SUDO_USERS:
-                await e.reply("ISPE RAID MAT MARO.. !!...")
+                await e.reply("𝙄𝙎𝙋𝙀 𝙍𝘼𝙄𝘿 𝙈𝘼𝙏 𝙈𝘼𝙍𝙊 𝙔𝙀 𝙏𝙉 𝙆𝘼 𝘽𝙀𝙏𝘼 𝙃𝘼𝙄.. !!...")
             else:
                 first_name = entity.first_name
                 counter = int(xraid[1])
@@ -103,15 +103,15 @@ async def rraid(e):
             if user_id in OXYGEN:
                 await e.reply("REPO OWNER HAI YE.")
             elif user_id == OWNER_ID:
-                await e.reply("BETA BAAP PE RAID NHI KRTE HAI....")
+                await e.reply("𝘽𝙀𝙏𝘼 𝙏𝙉 𝙋𝘼𝙋𝘼 𝙋𝘼𝙍 𝙍𝘼𝙄𝘿 𝙉𝙃𝙄 𝙆𝘼𝙍𝙏𝙀....")
             elif user_id in SUDO_USERS:
-                await e.reply("= ISPE RAID MAT MARO.. !!...")
+                await e.reply("= 𝙄𝙎𝙋𝙀 𝙍𝘼𝙄𝘿 𝙈𝘼𝙏 𝙈𝘼𝙍𝙊 𝙔𝙀 𝙏𝙉 𝙆𝘼 𝘽𝙀𝙏𝘼 𝙃𝘼𝙄.. !!...")
             else:
                 global REPLY_RAID
                 check = f"{user_id}_{e.chat_id}"
                 if check not in REPLY_RAID:
                     REPLY_RAID.append(check)
-                await e.reply("» LAG GYA REPLY RAID.. !! ✅")
+                await e.reply("» 𝘼𝘽 𝙔𝙀 𝙏𝙉 𝙎𝙀 𝘾𝙃𝙐𝘿𝙀𝙂𝘼.. !! ✅")
         except NameError:
             await e.reply(f"𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲: 𝐑𝐞𝐩𝐥𝐲𝐑𝐚𝐢𝐝\n  » {hl}rraid <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ>\n  » {hl}rraid <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
 
@@ -141,6 +141,6 @@ async def drraid(e):
             global REPLY_RAID
             if check in REPLY_RAID:
                 REPLY_RAID.remove(check)
-            await e.reply("» CHUD GYA APNE BAAP TN SE !! ✅")
+            await e.reply("» 𝘾𝙃𝙐𝘿 𝙂𝙔𝘼 𝘼𝙋𝙉𝙀 𝘽𝘼𝘼𝙋 𝙏𝙉 𝙎𝙀 !! ✅")
         except NameError:
             await e.reply(f"𝗠𝗼𝗱𝘂𝗹𝗲 𝗡𝗮𝗺𝗲: 𝐃𝐑𝐞𝐩𝐥𝐲𝐑𝐚𝐢𝐝\n  » {hl}drraid <ᴜꜱᴇʀɴᴀᴍᴇ ᴏꜰ ᴜꜱᴇʀ>\n  » {hl}drraid <ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴜꜱᴇʀ>")
