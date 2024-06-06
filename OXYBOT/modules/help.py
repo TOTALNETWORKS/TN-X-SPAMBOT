@@ -14,7 +14,7 @@ HELP_BUTTON = [
       Button.inline("★𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦★", data="extra")
     ],
     [
-      Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/I_RITESH_I")
+      Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/ITACHI_TNs")
      
     ],
   [   
@@ -67,7 +67,7 @@ extra_msg = f"""
 💖 𝗔𝗯𝘂𝘀𝗲𝗦𝗽𝗮𝗺: **🌺ᴏɴᴇ ᴡᴏʀᴅ ʙɪɢ ɢᴀᴀʟɪ sᴘᴀᴍ🌺**
   1) {hl}𝚊𝚋𝚞𝚜𝚎 <𝚌𝚘𝚞𝚗𝚝> <𝚞𝚜𝚎𝚛𝚗𝚊𝚖𝚎>
   
-**© ˹ @I_RITESH_I˼**
+**© ˹ @ITACHI_TNs ˼**
 """
 
 
@@ -105,7 +105,7 @@ yash_msg = f"""
 
 
 
-**© ˹@I_RITESH_I˼**💘
+**© ˹@ITACHI_TNs˼**💘
 """
 
                  
@@ -136,7 +136,7 @@ raid_msg = f"""
   1) {hl} 𝐂𝐑𝐀𝐈𝐃 < 𝐂𝐎𝐔𝐍𝐓 > < 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 >
   2) {hl} 𝐂𝐑𝐀𝐈𝐃 < 𝐂𝐎𝐔𝐍𝐓 > <𝐑𝐄𝐏𝐋𝐘 𝐓𝐎 𝐀 𝐔𝐒𝐄𝐑 >
 
-**© ˹@I_RITESH_I˼**💘
+**© ˹@ITACHI_TNs˼**💘
 """
 
 spam_msg = f"""
@@ -153,7 +153,7 @@ spam_msg = f"""
   1) {hl}𝐇𝐀𝐍𝐆 < 𝐂𝐎𝐔𝐍𝐓𝐄𝐑 >
 
 
-** © ˹@I_RITESH_I˼**
+** © ˹@ITACHI_TNs˼**
 """                     
            
            
@@ -181,7 +181,7 @@ async def helpback(event):
                 Button.inline("★𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦★", data="extra")
               ],
               [
-                Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/I_RITESH_I")
+                Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/ITACHI_TNs")
            
               ]
             ]
@@ -206,7 +206,7 @@ async def help_spam(event):
               buttons=[[Button.inline("< Back", data="help_back"),],],
               ) 
     else:
-        await event.answer("Developer - @I_RITESH_I★", cache_time=0, alert=True)
+        await event.answer("Developer - @ITACHI_TNs★", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"raid"))
@@ -225,7 +225,7 @@ async def help_raid(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
           )
     else:
-        await event.answer("Developer - @I_RITESH_I★", cache_time=0, alert=True)
+        await event.answer("Developer - @ITACHI_TNs★", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"extra"))
@@ -244,7 +244,7 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
     else:
-        await event.answer("Developer - @I_RITESH_I★", cache_time=0, alert=True)
+        await event.answer("Developer - @ITACHI_TNs★", cache_time=0, alert=True)
         
 
 @X1.on(events.CallbackQuery(pattern=r"yash"))
@@ -263,4 +263,4 @@ async def help_yash(event):
              buttons=[[Button.inline("< Back", data="help_back"),],],
              )
      else:
-         await event.answer("Developer - @I_RITESH_I★", cache_time=0, alert=True)
+         await event.answer("Developer - @ITACHI_TNs★", cache_time=0, alert=True)
