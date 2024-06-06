@@ -1,10 +1,10 @@
-<h1 align="center"><b>[✨🥀] RITESH 𝕏 𝕊ℙ𝔸𝕄𝔹𝕆𝕋˼ [✨🥀]</b></h1>
+<h1 align="center"><b>[✨🥀] TN × SPAM BOT [✨🥀]</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-[<img src="https://telegra.ph/file/fd3ad786a249ff2bf3889.jpg"/>]
+[<img src="https://telegra.ph/file/dc1b6a5fae00e58480a47.jpg"/>]
 
-> ⭐️ Thanks to everyone for using this op 🥀 RITESH 𝕏 𝕊ℙ𝔸𝕄𝔹𝕆𝕋 🥀. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op 🥀 TN × SPAM BOT 🥀. That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
@@ -14,7 +14,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/JaishreeRamTG/ANIME_X_SPAM_BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/TOTALNETWORKS/TN-X-SPAMBOT)
 
 </details>
 
