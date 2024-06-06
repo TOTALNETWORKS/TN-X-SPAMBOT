@@ -1,4 +1,4 @@
-<h1 align="center"><b>[✨🥀] TN × SPAM BOT [✨🥀]</b></h1>
+<h1 align="center"><b>[✨] 𝑇𝑁 × 𝑆𝑃𝐴𝑀 𝐵𝑂𝑇 🦋 [✨]</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
