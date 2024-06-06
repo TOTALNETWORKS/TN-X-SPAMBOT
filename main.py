@@ -32,7 +32,7 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("\Ritesh Bot Deployed Successfully!")
+print("\𝙏𝙉 × 𝙎𝙋𝘼𝙈 𝘽𝙊𝙏 𝘿𝙀𝙋𝙇𝙊𝙔𝙀𝘿 ✓!")
 
 
 async def main():
