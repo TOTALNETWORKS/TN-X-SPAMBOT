@@ -1,6 +1,6 @@
 {
-    "name": "Rɪᴛᴇsʜ ꭙ 𝕊𝕡𝕒𝕞˼🫧",
-    "logo": "https://telegra.ph/file/fd3ad786a249ff2bf3889.jpg",
+    "name": "𝙏𝙉 × 𝙎𝙋𝘼𝙈𝘽𝙊𝙏",
+    "logo": "https://telegra.ph/file/dc1b6a5fae00e58480a47.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/JaishreeRamTG/ANIME_X_SPAM_BOT.git",
+    "repository": "https://github.com/TOTALNETWORKS/TN-X-SPAMBOT.git",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
